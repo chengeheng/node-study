@@ -1,2 +1,4 @@
 express/node_modules/
 express-mysql/node_modules/
+express-session/node_modules/
+express-jwt/node_modules/
